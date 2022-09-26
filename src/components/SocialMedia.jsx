@@ -6,7 +6,7 @@ import { FaFacebook } from 'react-icons/fa';
 
 
 
-// social media
+// social media component
 
 const SocialMedia = () => {
     return (
